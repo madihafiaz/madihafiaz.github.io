@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Second Page</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('SecondLevelMockUp-assets/craftSandwich2.png','SecondLevelMockUp-assets/glutenFreeSandwich2.png','SecondLevelMockUp-assets/sandwich2Roll.png')">
+
+<div class="head2_png">
+<a href="FirstLevel.html"><div class="logo2_png"></div></a>
+<div class="pizza2_png"></div>
+<a href="SecondLevel.html"><div class="sandwich2_png"><a href="SecondLevel.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('sandwich','','SecondLevelMockUp-assets/sandwich2Roll.png',1)"><img src="SecondLevelMockUp-assets/sandwich2.png" alt="" width="119" height="119" id="sandwich"></a></div></a>
+	
+	
+<div class="martini2_png"></div>
+<div class="cup2_png"></div>
+</div>
+
+<div class="nav2_png"></div>
+<div class="lightElipses_png"></div>
+<div class="darkElipses_png"></div>
+
+	
+
+<div class="craftSandwich_jpg"><a href="ThirdLevel.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('houseClub','','SecondLevelMockUp-assets/craftSandwich2.png',1)"><img src="SecondLevelMockUp-assets/craftSandwich.jpg" alt="" width="525" height="525" id="houseClub"></a></div>
+	
+	
+<div class="glutenFreeSandwich_jpg"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('GlutenFree','','SecondLevelMockUp-assets/glutenFreeSandwich2.png',1)"><img src="SecondLevelMockUp-assets/glutenFreeSandwich.jpg" alt="" width="519" height="525" id="GlutenFree"></a></div>
+
+
+<div class="footer2_png"></div>
+<div class="copyright2_png">Copyright</div>
+<div class="location2_png">Location</div>
+<div class="contactUs2_png">Contact us</div>
+<div class="socialMedia2_png">Social Media</div>
+
+</body>
+</html>

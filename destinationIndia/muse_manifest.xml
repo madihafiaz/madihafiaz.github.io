@@ -1,0 +1,122 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="destinationindia.com" resolutions="1x" timestamp="1512583811262">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="411892008" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="img_0550.jpg" crc="3930965056" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u179-4.png" crc="20437098" ref="index"/>
+    <file name="u186-4.png" crc="360078813" ref="index"/>
+    <file name="u170-4.png" crc="4006037108" ref="index"/>
+    <file name="u193-4.png" crc="4184859264" ref="index"/>
+    <file name="u1852-4.png" crc="4057708643" ref="index"/>
+    <file name="logo.png" crc="198896934" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2008-4.png" crc="272309547" ref="index"/>
+    <file name="img_0618-crop-u2238.jpg" crc="3843274424" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img_0663-crop-u3083.jpg" crc="207966726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0958-crop-u3058.jpg" crc="417694548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0618172x129.jpg" crc="277774200" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0663-crop-u3089.jpg" crc="4124357844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0958-crop-u3064.jpg" crc="3905245057" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u2011-4.png" crc="509578716" ref="index"/>
+    <file name="img_0618-crop-u2444.jpg" crc="3843274424" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0716-crop-u2836.jpg" crc="4023907271" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0737-crop-u2863.jpg" crc="377021633" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0716-crop-u2842.jpg" crc="242206070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0737-crop-u2869.jpg" crc="3784446443" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2014-4.png" crc="3826767238" ref="index"/>
+    <file name="img_0663-crop-u2528.jpg" crc="207966726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0623-crop-u2929.jpg" crc="376270510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0680-crop-u1296.jpg" crc="68461723" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0663-crop-u2538.jpg" crc="89296391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0623-crop-u2935.jpg" crc="3774203909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0680-crop-u1296-crop-u2908.jpg" crc="3759095193" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2017-4.png" crc="393699697" ref="index"/>
+    <file name="img_0772-crop-u2609.jpg" crc="16949532" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0958-crop-u2968.jpg" crc="4281691712" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1206-crop-u1134.jpg" crc="215752008" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0772-crop-u2623.jpg" crc="4115928439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0958-crop-u2974.jpg" crc="114033479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1206-crop-u1134-crop-u3001.jpg" crc="189872093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-facebook.png" crc="4128531997" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-instagram.png" crc="4018358141" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-twitter.png" crc="126268927" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="148245755" seo="true" mt="1512583667416" redirect="true"/>
+</manifest>

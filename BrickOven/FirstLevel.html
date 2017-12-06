@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>First Page</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('FirstLevelMockUp-assets/sandwichRoll.png')">
+<a href="FirstLevel.html"><div class="logo_png"></div></a>
+	<a href="SecondLevel.html"><div class="pizza_png"></div></a>
+<div class="eggSandwich_jpg"></div>
+<div class="head_png"></div>
+<div class="location_png">Location</div>
+<div class="contactUs_png">Contact Us</div>
+<div class="copyright_png">Copyright</div>
+<div class="socialMedia_png">Social Media</div>
+
+	
+<a href="SecondLevel.html"><div class="sandwich_png"><a href="SecondLevel.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('sandwich','','FirstLevelMockUp-assets/sandwichRoll.png',1)"><img src="FirstLevelMockUp-assets/sandwich.png" alt="" width="155" height="153" id="sandwich"></a></div></a>
+	
+<div class="martini_png"></div>
+<div class="cup_png"></div>
+
+<div class="carouselElispses_png"></div>
+<div class="whiteElipse_png"></div>
+<div class="natureType_png">Nature's Goodness Sandwich</div>
+<div class="matchType_png">A match made in heaven. This sandwich takes a boring sandwich combination and adds a new twist to it. Organic Boiled egg, avacodo layed on a fresh gluten free bread bed and covered with special house sauce.</div>
+<div class="nav_png"></div>
+<div class="offerType_png">What do we offer?</div>
+<div class="breadType_png">We make our own in house gluten-free bread and dairy products.</div>
+<div class="fresh_png">Freshly picked ingredients from our garden next door.</div>
+<div class="exoticType_png">Exotic gluten-free flour from around the world delivered to you.</div>
+<div class="blockBox_png"></div>
+<div class="glutenFreeBread_jpg"></div>
+<div class="lemons_jpg"></div>
+<div class="pancakes_jpg"></div>
+<div class="locationFooter_png">Location</div>
+<div class="contactUsFooter_png">Contact Us</div>
+<div class="copyrightFooter_png">Copyright</div>
+<div class="socialMediaFooter_png">Social Media</div>
+<div class="footer_png"></div>
+</body>
+</html>

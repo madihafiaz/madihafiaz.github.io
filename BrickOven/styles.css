@@ -1,0 +1,879 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.mytype1{
+	font-family: "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+
+/* Carousel Images*/
+
+.eggSandwich_jpg {
+  background-image: url("FirstLevelMockUp-assets/eggSandwich.jpg");
+  position: absolute;
+  left: -8px;
+  top: -262px;
+  width: 1200px;
+  height: 1732px;
+  z-index: 6;
+}
+
+.restaurant_jpg {
+  background-image: url("FirstLevelMockUp-assets/restaurant.jpg");
+  position: absolute;
+  left: 0px;
+  top: -358px;
+  width: 1210px;
+  height: 1816px;
+  z-index: 4;
+}
+
+.pizzaImage_jpg {
+  background-image: url("FirstLevelMockUp-assets/pizzaImage.jpg");
+  position: absolute;
+  left: -675px;
+  top: 1px;
+  width: 1875px;
+  height: 1121px;
+  z-index: 3;
+}
+
+.shakes_jpg {
+  background-image: url("FirstLevelMockUp-assets/shakes.jpg");
+  position: absolute;
+  left: -6px;
+  top: -53px;
+  width: 1212px;
+  height: 1726px;
+  z-index: 5;
+}
+
+/** Third Level Page **/
+
+.ingredientsType_png {
+  background-image: url("ThirdLevelMockUp-assets/ingredientsType.png");
+  position: absolute;
+  left: 671px;
+  top: 376px;
+  width: 201px;
+  height: 256px;
+  z-index: 35;
+}
+
+.ingredients_png {
+  background-image: url("ThirdLevelMockUp-assets/ingredients.png");
+  position: absolute;
+  left: 673px;
+  top: 300px;
+  width: 229px;
+  height: 29px;
+  z-index: 36;
+}
+
+.socialMedia3_png {
+  font-size: 25px;
+  font-family: "Helvetica Neue";
+  color: rgb(181, 131, 77);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 941.688px;
+  top: 901.575px;
+  width: 300px;
+  height: 18px;
+  z-index: 31;
+}
+
+.contactUs3_png {
+  font-size: 25px;
+  font-family: "Helvetica Neue";
+  color: rgb(181, 131, 77);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00045392292661,0,0,1.0102980784653,0,0);
+  -webkit-transform: matrix( 1.00045392292661,0,0,1.0102980784653,0,0);
+  -ms-transform: matrix( 1.00045392292661,0,0,1.0102980784653,0,0);
+  position: absolute;
+  left: 671.014px;
+  top: 900.575px;
+  width: 200px;
+  height: 18px;
+  z-index: 30;
+}
+
+.location3_png {
+  font-size: 25px;
+  font-family: "Helvetica Neue";
+  color: rgb(181, 131, 77);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00045392292661,0,0,1.0102980784653,0,0);
+  -webkit-transform: matrix( 1.00045392292661,0,0,1.0102980784653,0,0);
+  -ms-transform: matrix( 1.00045392292661,0,0,1.0102980784653,0,0);
+  position: absolute;
+  left: 387.426px;
+  top: 902.575px;
+  width: 97.149px;
+  height: 18px;
+  z-index: 29;
+}
+
+.copyright3_png {
+  font-size: 25px;
+  font-family: "Helvetica Neue";
+  color: rgb(181, 131, 77);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00045392292661,0,0,1.0102980784653,0,0);
+  -webkit-transform: matrix( 1.00045392292661,0,0,1.0102980784653,0,0);
+  -ms-transform: matrix( 1.00045392292661,0,0,1.0102980784653,0,0);
+  position: absolute;
+  left: 111.65px;
+  top: 902.575px;
+  width: 111.701px;
+  height: 23px;
+  z-index: 28;
+}
+
+.logo3_png {
+  background-image: url("ThirdLevelMockUp-assets/logo3.png");
+  position: absolute;
+  left: 485px;
+  top: 30px;
+  width: 259px;
+  height: 118px;
+  z-index: 27;
+}
+
+.pizza3_png {
+  background-image: url("ThirdLevelMockUp-assets/pizza3.png");
+  position: absolute;
+  left: 55px;
+  top: 25px;
+  width: 120px;
+  height: 119px;
+  z-index: 26;
+}
+
+.sandwich3_png {
+  background-image: url("ThirdLevelMockUp-assets/sandwich3.png");
+  position: absolute;
+  left: 266px;
+  top: 25px;
+  width: 121px;
+  height: 119px;
+  z-index: 25;
+}
+
+.martini3_png {
+  background-image: url("ThirdLevelMockUp-assets/martini3.png");
+  position: absolute;
+  left: 822px;
+  top: 25px;
+  width: 120px;
+  height: 120px;
+  z-index: 23;
+}
+
+.cup3_png {
+  background-image: url("ThirdLevelMockUp-assets/cup3.png");
+  position: absolute;
+  left: 1022px;
+  top: 26px;
+  width: 120px;
+  height: 119px;
+  z-index: 24;
+}
+
+.nav3_png {
+  background-image: url("ThirdLevelMockUp-assets/nav3.png");
+  opacity: 0.71;
+  position: absolute;
+  left: -10px;
+  top: 185px;
+  width: 1215px;
+  height: 686px;
+  z-index: 22;
+}
+
+.craftSandwich2_jpg {
+  background-image: url("ThirdLevelMockUp-assets/craftSandwich2.jpg");
+  position: absolute;
+  left: 278px;
+  top: 222px;
+  width: 672px;
+  height: 614px;
+  z-index: 33;
+}
+
+.listBox_jpg {
+  background-image: url("ThirdLevelMockUp-assets/listBox.jpg");
+  opacity: 0.71;
+  position: absolute;
+  left: 623px;
+  top: 222px;
+  width: 328px;
+  height: 614px;
+  z-index: 33;
+}
+
+.footer3_png {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 871px;
+  width: 1200px;
+  height: 79px;
+  z-index: 21;
+}
+
+/** Second Level Page **/
+
+.socialMedia2_png {
+  font-size: 25px;
+  font-family: "Helvetica Neue";
+  color: rgb(181, 131, 77);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 942.688px;
+  top: 897.575px;
+  width: 400px;
+  height: 18px;
+  z-index: 27;
+}
+
+.contactUs2_png {
+  font-size: 25px;
+  font-family: "Helvetica Neue";
+  color: rgb(181, 131, 77);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 657.014px;
+  top: 897.575px;
+  width: 200px;
+  height: 18px;
+  z-index: 26;
+}
+
+.location2_png {
+  font-size: 25px;
+  font-family: "Helvetica Neue";
+  color: rgb(181, 131, 77);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00045392292661,0,0,1.0031447542503,0,0);
+  -webkit-transform: matrix( 1.00045392292661,0,0,1.0031447542503,0,0);
+  -ms-transform: matrix( 1.00045392292661,0,0,1.0031447542503,0,0);
+  position: absolute;
+  left: 373.426px;
+  top: 897.575px;
+  width: 97.149px;
+  height: 18px;
+  z-index: 25;
+}
+
+.copyright2_png {
+  font-size: 25px;
+  font-family: "Helvetica Neue";
+  color: rgb(181, 131, 77);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00045392292661,0,0,1.0031447542503,0,0);
+  -webkit-transform: matrix( 1.00045392292661,0,0,1.0031447542503,0,0);
+  -ms-transform: matrix( 1.00045392292661,0,0,1.0031447542503,0,0);
+  position: absolute;
+  left: 97.65px;
+  top: 895.575px;
+  width: 111.701px;
+  height: 23px;
+  z-index: 24;
+}
+
+.houseClubType_png {
+  font-size: 14px;
+  font-family: "Helvetica Neue";
+  color: rgb(173, 107, 36);
+  line-height: 1.286;
+  text-align: center;
+  -moz-transform: matrix( 0.99955588452998,0,0,1.0038240917782,0,0);
+  -webkit-transform: matrix( 0.99955588452998,0,0,1.0038240917782,0,0);
+  -ms-transform: matrix( 0.99955588452998,0,0,1.0038240917782,0,0);
+  position: absolute;
+  left: 362.436px;
+  top: 470.002px;
+  width: 155.744px;
+  height: 82px;
+  z-index: 34;
+}
+
+.houseClubSandwich_png {
+  font-size: 24px;
+  font-family: "Helvetica Neue";
+  color: rgb(181, 131, 77);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 0.99955588452998,0,0,1.0038240917782,0,0);
+  -webkit-transform: matrix( 0.99955588452998,0,0,1.0038240917782,0,0);
+  -ms-transform: matrix( 0.99955588452998,0,0,1.0038240917782,0,0);
+  position: absolute;
+  left: 367.822px;
+  top: 375.032px;
+  width: 126.694px;
+  height: 46.8px;
+  z-index: 33;
+}
+
+.glutenFreeType_png {
+  font-size: 14px;
+  font-family: "Helvetica Neue";
+  color: rgb(181, 131, 77);
+  line-height: 1.281;
+  text-align: center;
+  position: absolute;
+  left: 667.039px;
+  top: 459.959px;
+  width: 145px;
+  height: 103px;
+  z-index: 32;
+}
+
+.glutenFreeSandwich_png {
+  font-size: 24px;
+  font-family: "Helvetica Neue";
+  color: rgb(181, 131, 77);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 655.738px;
+  top: 375.355px;
+  width: 128px;
+  height: 46px;
+  z-index: 31;
+}
+
+.head2_png {
+  background-image: url("SecondLevelMockUp-assets/head2.png");
+  position: absolute;
+  left: -2px;
+  top: 0px;
+  width: 1200px;
+  height: 185px;
+  z-index: 23;
+}
+
+.logo2_png {
+  background-image: url("SecondLevelMockUp-assets/logo2.png");
+  position: absolute;
+  left: 489px;
+  top: 32px;
+  width: 256px;
+  height: 118px;
+  z-index: 39;
+}
+
+.pizza2_png {
+  background-image: url("SecondLevelMockUp-assets/pizza2.png");
+  position: absolute;
+  left: 64px;
+  top: 27px;
+  width: 119px;
+  height: 119px;
+  z-index: 38;
+}
+
+.sandwich2_png {
+  background-image: url("SecondLevelMockUp-assets/sandwich2.png");
+  position: absolute;
+  left: 273px;
+  top: 27px;
+  width: 119px;
+  height: 119px;
+  z-index: 37;
+}
+
+.martini2_png {
+  background-image: url("SecondLevelMockUp-assets/martini2.png");
+  position: absolute;
+  left: 822px;
+  top: 27px;
+  width: 118px;
+  height: 120px;
+  z-index: 36;
+}
+
+.cup2_png {
+  background-image: url("SecondLevelMockUp-assets/cup2.png");
+  position: absolute;
+  left: 1019px;
+  top: 28px;
+  width: 119px;
+  height: 119px;
+  z-index: 40;
+}
+
+.nav2_png {
+  background-image: url("SecondLevelMockUp-assets/nav2.png");
+  opacity: 0.71;
+  position: absolute;
+  left: 0px;
+  top: 187px;
+  width: 1200px;
+  height: 686px;
+  z-index: 22;
+}
+
+.craftSandwich_jpg {
+  background-image: url("SecondLevelMockUp-assets/craftSandwich.jpg");
+  position: absolute;
+  left: 41px;
+  top: 231px;
+  width: 525px;
+  height: 525px;
+  z-index: 27;
+}
+
+.glutenFreeSandwich_jpg {
+  background-image: url("SecondLevelMockUp-assets/glutenFreeSandwich.jpg");
+  position: absolute;
+  left: 633px;
+  top: 231px;
+  width: 519px;
+  height: 525px;
+  z-index: 28;
+}
+
+.infoSection_jpg {
+  background-image: url("SecondLevelMockUp-assets/infoSection.jpg");
+  opacity: 0.71;
+  position: absolute;
+  left: 355px;
+  top: 231px;
+  width: 488px;
+  height: 525px;
+  z-index: 29;
+}
+
+.darkElipses_png {
+  background-image: url("SecondLevelMockUp-assets/darkElipses.png");
+  position: absolute;
+  left: 580px;
+  top: 797px;
+  width: 40px;
+  height: 40px;
+  z-index: 34;
+}
+
+.lightElipses_png {
+  background-image: url("SecondLevelMockUp-assets/lightElipses.png");
+  position: absolute;
+  left: 494px;
+  top: 796px;
+  width: 208px;
+  height: 41px;
+  z-index: 20;
+}
+
+.footer2_png {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: -2px;
+  top: 873px;
+  width: 1202px;
+  height: 79px;
+  z-index: 21;
+}
+
+
+/** First Level Page **/
+
+.location_png {
+  font-size: 23px;
+  font-family: "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  color: rgb(253, 253, 252);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00045392292661,0,0,1.0031447542503,0,0);
+  -webkit-transform: matrix( 1.00045392292661,0,0,1.0031447542503,0,0);
+  -ms-transform: matrix( 1.00045392292661,0,0,1.0031447542503,0,0);
+  position: absolute;
+  left: 42.479px;
+  top: 79.978px;
+  width: 101.043px;
+  height: 18.328px;
+  z-index: 17;
+}
+
+.contactUs_png {
+  font-size: 25px;
+  font-family: "Helvetica Neue";
+  color: rgb(253, 253, 253);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 241.49px;
+  top: 79.978px;
+  width: 300px;
+  height: 18.328px;
+  z-index: 18;
+}
+
+
+.copyright_png {
+  font-size: 25px;
+  font-family: "Helvetica Neue";
+  color: rgb(254, 254, 253);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.00045392292661,0,0,1.0031447542503,0,0);
+  -webkit-transform: matrix( 1.00045392292661,0,0,1.0031447542503,0,0);
+  -ms-transform: matrix( 1.00045392292661,0,0,1.0031447542503,0,0);
+  position: absolute;
+  left: 801.704px;
+  top: 79.642px;
+  width: 115.593px;
+  height: 23px;
+  z-index: 16;
+}
+
+.socialMedia_png {
+  font-size: 25px;
+  font-family: "Helvetica Neue";
+  color: rgb(255, 255, 254);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 969.616px;
+  top: 79.978px;
+  width: 400px;
+  height: 18.328px;
+  z-index: 19;
+}
+
+.natureType_png {
+  font-size: 48px;
+  font-family: "Helvetica Neue";
+  color: rgb(253, 252, 250);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 246.979px;
+  top: 904.77px;
+  width: 800px;
+  height: 36px;
+  z-index: 22;
+}
+
+.matchType_png {
+  font-size: 22px;
+  font-family: "Helvetica Neue";
+  color: rgb(237, 235, 233);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 1.00014758980744,0,0,0.99772478301171,0,0);
+  -webkit-transform: matrix( 1.00014758980744,0,0,0.99772478301171,0,0);
+  -ms-transform: matrix( 1.00014758980744,0,0,0.99772478301171,0,0);
+  position: absolute;
+  left: 164.053px;
+  top: 986.746px;
+  width: 863.842px;
+  height: 72.8px;
+  z-index: 23;
+}
+
+.offerType_png {
+  font-size: 50px;
+  font-family: "Helvetica Neue";
+  color: rgb(181, 131, 77);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 388px;
+  top: 1175.151px;
+  width: 421px;
+  height: 38px;
+  z-index: 24;
+}
+
+.breadType_png {
+  font-size: 26px;
+  font-family: "Helvetica Neue";
+  color: rgb(181, 131, 77);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 55.478px;
+  top: 1577.718px;
+  width: 285px;
+  height: 87px;
+  z-index: 27;
+}
+
+.fresh_png {
+  font-size: 26px;
+  font-family: "Helvetica Neue";
+  color: rgb(181, 131, 77);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 1,0,0,1.00075723591778,0,0);
+  -webkit-transform: matrix( 1,0,0,1.00075723591778,0,0);
+  -ms-transform: matrix( 1,0,0,1.00075723591778,0,0);
+  position: absolute;
+  left: 452.119px;
+  top: 1578.059px;
+  width: 239.869px;
+  height: 86.352px;
+  z-index: 25;
+}
+
+.exoticType_png {
+  font-size: 26px;
+  font-family: "Helvetica Neue";
+  color: rgb(181, 131, 77);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 1,0,0,1.00104135676871,0,0);
+  -webkit-transform: matrix( 1,0,0,1.00104135676871,0,0);
+  -ms-transform: matrix( 1,0,0,1.00104135676871,0,0);
+  position: absolute;
+  left: 845.118px;
+  top: 1578.075px;
+  width: 271.567px;
+  height: 86.335px;
+  z-index: 26;
+}
+
+.whiteElipse_png {
+  background-image: url("FirstLevelMockUp-assets/whiteElipse.png");
+  position: absolute;
+  left: 32px;
+  top: 550px;
+  width: 22px;
+  height: 22px;
+  z-index: 20;
+}
+
+.carouselElispses_png {
+  background-image: url("FirstLevelMockUp-assets/carouselElispses.png");
+  position: absolute;
+  left: 32px;
+  top: 508px;
+  width: 22px;
+  height: 148px;
+  z-index: 7;
+}
+
+.eggSandwich_jpg {
+  background-image: url("FirstLevelMockUp-assets/eggSandwich.jpg");
+  position: absolute;
+  left: -8px;
+  top: -262px;
+  width: 1200px;
+  height: 1732px;
+  z-index: 6;
+}
+
+.head_png {
+  background-image: url("FirstLevelMockUp-assets/head.png");
+  opacity: 0.71;
+  position: absolute;
+  left: -1px;
+  top: 0px;
+  width: 1201px;
+  height: 281px;
+  z-index: 10;
+}
+
+
+.nav_png {
+  background-image: url("FirstLevelMockUp-assets/nav.png");
+  opacity: 0.71;
+  position: absolute;
+  left: -1px;
+  top: 878px;
+  width: 1201px;
+  height: 224px;
+  z-index: 9;
+}
+
+
+.blockBox_png {
+  background-image: url("FirstLevelMockUp-assets/blockBox.png");
+  position: absolute;
+  left: -1px;
+  top: 1102px;
+  width: 1202px;
+  height: 653px;
+  z-index: 8;
+}
+
+.logo_png {
+  background-image: url("FirstLevelMockUp-assets/logo.png");
+  position: absolute;
+  left: 439px;
+  top: 14px;
+  width: 319px;
+  height: 142px;
+  z-index: 15;
+}
+
+.pizza_png {
+  background-image: url("FirstLevelMockUp-assets/pizza.png");
+  position: absolute;
+  left: 95px;
+  top: 184px;
+  width: 154px;
+  height: 153px;
+  z-index: 14;
+}
+
+.sandwich_png {
+  background-image: url("FirstLevelMockUp-assets/sandwich.png");
+  position: absolute;
+  left: 365px;
+  top: 184px;
+  width: 155px;
+  height: 153px;
+  z-index: 99999;
+}
+
+.martini_png {
+  background-image: url("FirstLevelMockUp-assets/martini.png");
+  position: absolute;
+  left: 684px;
+  top: 183px;
+  width: 155px;
+  height: 153px;
+  z-index: 12;
+}
+
+.cup_png {
+  background-image: url("FirstLevelMockUp-assets/cup.png");
+  position: absolute;
+  left: 941px;
+  top: 184px;
+  width: 154px;
+  height: 153px;
+  z-index: 13;
+}
+
+.glutenFreeBread_jpg {
+  background-image: url("FirstLevelMockUp-assets/glutenFreeBread.jpg");
+  position: absolute;
+  left: 99px;
+  top: 1325px;
+  width: 170px;
+  height: 171px;
+  z-index: 27;
+}
+
+.lemons_jpg {
+  background-image: url("FirstLevelMockUp-assets/lemons.jpg");
+  position: absolute;
+  left: 498px;
+  top: 1326px;
+  width: 170px;
+  height: 171px;
+  z-index: 28;
+}
+.pancakes_jpg {
+  background-image: url("FirstLevelMockUp-assets/pancakes.jpg");
+  position: absolute;
+  left: 902px;
+  top: 1326px;
+  width: 170px;
+  height: 171px;
+  z-index: 29;
+}
+
+.footer_png {
+  background-image: url("FirstLevelMockUp-assets/footer.png");
+  position: absolute;
+  left: 0px;
+  top: 1787px;
+  width: 1200px;
+  height: 113px;
+  z-index: 30;
+}
+
+.socialMediaFooter_png {
+  font-size: 25px;
+  font-family: "Helvetica Neue";
+  color: rgb(255, 255, 254);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 796.616px;
+  top: 1825.978px;
+  width: 300px;
+  height: 18.328px;
+  z-index: 32;
+}
+
+
+.contactUsFooter_png {
+  font-size: 25px;
+  font-family: "Helvetica Neue";
+  color: rgb(253, 253, 253);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 419.49px;
+  top: 1827.978px;
+  width: 200px;
+  height: 18.328px;
+  z-index: 34;
+}
+
+
+.locationFooter_png {
+  font-size: 25px;
+  font-family: "Helvetica Neue";
+  color: rgb(253, 253, 252);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 1.00162151720672,0,0,0.99654551702861,0,0);
+  -webkit-transform: matrix( 1.00162151720672,0,0,0.99654551702861,0,0);
+  -ms-transform: matrix( 1.00162151720672,0,0,0.99654551702861,0,0);
+  position: absolute;
+  left: 220.479px;
+  top: 1827.978px;
+  width: 101.043px;
+  height: 18.328px;
+  z-index: 33;
+}
+
+
+.copyrightFooter_png {
+  font-size: 25px;
+  font-family: "Helvetica Neue";
+  color: rgb(254, 254, 253);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 1.00091651707769,0,0,1.0072634263238,0,0);
+  -webkit-transform: matrix( 1.00091651707769,0,0,1.0072634263238,0,0);
+  -ms-transform: matrix( 1.00091651707769,0,0,1.0072634263238,0,0);
+  position: absolute;
+  left: 628.704px;
+  top: 1825.642px;
+  width: 115.593px;
+  height: 23px;
+  z-index: 31;
+}
+
+
+
+
+
+
+
