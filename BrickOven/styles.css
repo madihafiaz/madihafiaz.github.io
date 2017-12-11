@@ -2,7 +2,20 @@
 /* CSS Document */
 
 .mytype1{
-	font-family: "Helvetica Neue", Helvetica, Arial, "sans-serif"
+    font-family: "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    text-align: center;
+    color: #A9845A;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+}
+.mytype2{
+    font-family: "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    color: #A9845A;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    text-align: center;
 }
 
 /* Carousel Images*/
@@ -78,7 +91,7 @@
   position: absolute;
   left: 941.688px;
   top: 901.575px;
-  width: 300px;
+  width: 250px;
   height: 18px;
   z-index: 31;
 }
@@ -870,10 +883,15 @@
   height: 23px;
   z-index: 31;
 }
-
-
-
-
-
-
-
+.button {
+    font-family: "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    background-color: #A9845A;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    text-align: center;
+    width: 280px;
+	padding: 10px;
+    color: #F6E8B0;
+    border-radius: 10px;
+}
